@@ -1,2 +1,1 @@
-# TMD-Unet: Triple-Unet with
-Multi-Scale Input Features and Dense Skip Connection for Medical Image Segmentation
+# TMD-Unet: Triple-Unet with Multi-Scale Input Features and Dense Skip Connection for Medical Image Segmentation
